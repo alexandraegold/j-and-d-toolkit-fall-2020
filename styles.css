@@ -34,12 +34,12 @@ img.logo {
 <style>
 /* unvisited link */
 a:link {
-  color: red;
+  color: pink;
 }
 
 /* visited link */
 a:visited {
-  color: red;
+  color: pink;
 }
 
 /* mouse over link */
@@ -49,7 +49,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: red;
+  color: ivory;
 }
 </style>
 </head>
