@@ -6,6 +6,8 @@ body {
 	text-align: center;
 	font-family: "Palatino Linotype", "Palatino Linotype", "Palatino Linotype", sans-serif;
 }
+a:link {
+  color: red;
 
 h1 {
 	color: #fefefe;
