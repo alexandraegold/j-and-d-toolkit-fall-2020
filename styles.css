@@ -4,7 +4,7 @@ body {
 	font-size: 10px;
 	padding: 1em;
 	text-align: center;
-	font-family: "Palatino Linotype", "Palatino Linotype", "Palatino Linotype", sans-serif;
+	font-family: "Franklin Gothic", "Franklin Gothic", "Franklin Gothic", sans-serif;
 
 	color: #fefefe;
 	font-size: 2em;
@@ -28,18 +28,20 @@ img.logo {
 	max-height: 40em;
 	margin: 2em auto;
 }
+
 <!DOCTYPE html>
 <html>
 <head>
+</body>
 <style>
 /* unvisited link */
 a:link {
-  color: pink;
+  color: brown;
 }
 
 /* visited link */
 a:visited {
-  color: pink;
+  color: brown;
 }
 
 /* mouse over link */
@@ -49,7 +51,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: ivory;
+  color: brown;
 }
 </style>
 </head>
