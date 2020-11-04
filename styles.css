@@ -5,6 +5,7 @@ body {
 	padding: 1em;
 	text-align: center;
 	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-variant: small-caps;
 	text-align: center;
 	}
 
@@ -13,8 +14,20 @@ h1 {
 	font-size: 4em;
 }
 
-a{
+a {
 	color: beige;
+}
+
+ul {
+	color: beige;
+	font-size: 22px;
+	font-family: "Times New Roman", sans-serif;
+  list-style-type: square;
+}
+
+<hr {
+	color: beige;
+	width: 8px;
 }
 
 p {
