@@ -16,11 +16,16 @@ h1 {
 }
 
 div {
-	font-size: 18px;
+	font-size: 20px;
 }
 
 a {
 	color: beige;
+}
+
+a:hover {
+	color: #000000;
+	background-color: beige;
 }
 
 ul {
@@ -34,7 +39,6 @@ ul {
 
 hr {
 	color: beige;
-	width: 8px;
 }
 
 
